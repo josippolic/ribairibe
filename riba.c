@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
+
 int simuliraj(char niz[], int n, int x)
 {
     int vrijeme = x;
@@ -59,3 +60,4 @@ int main()
 
     return 0;
 }
+
